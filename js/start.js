@@ -8,4 +8,3 @@ start.style.position = 'absolute';
 start.style.zIndex = '1';
 
 document.body.insertBefore(start, gameScreen)
-

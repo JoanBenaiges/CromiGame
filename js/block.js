@@ -29,7 +29,6 @@ class Block {
         this.blockElement.style.height = `${this.blockSize.h}px`;
         this.blockElement.style.left = `${this.blockPos.left}px`;
         this.blockElement.style.top = `${this.blockPos.top}px`;
-        //this.blockElement.style.backgroundColor = "brown"
         this.blockElement.style.borderRadius = "5px";
 
 

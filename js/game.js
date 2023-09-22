@@ -111,6 +111,8 @@ const Game = {
 
         this.boss = new Boss(this.gameScreen, this.gameSize)
 
+        const musicGame = document.createElement("audio"); musicGame.src = "./audio/music-game.wav"; musicGame.play()
+
 
 
     },
